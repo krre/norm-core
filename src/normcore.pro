@@ -12,6 +12,7 @@ SOURCES += \
     NormCore/Norm.cpp
 
 HEADERS += \
+    NormCore/Constants.h \
     NormCore/Global.h \
     NormCore/Norm.h
 
